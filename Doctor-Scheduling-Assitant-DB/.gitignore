@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DoctorSchedulingAssistent-DB/.vs/DoctorSchedulingAssistent-DB
+/DoctorSchedulingAssistent-DB/DoctorSchedulingAssistent-DB/obj/Debug

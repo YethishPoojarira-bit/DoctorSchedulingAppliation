@@ -1,0 +1,103 @@
+StateSnapshot(
+    values={
+        'TotalAmt': 1000, 
+        'Items': {'Products': [], 'spentAmt': 0}, 
+        'TransactionType': 'chat', 
+        'Amount': 0, 
+        'user_input': 'hi', 
+        'category': '', 
+        'messages': 
+            [ HumanMessage(content='hi', additional_kwargs={}, response_metadata={}), 
+            AIMessage(content='Hello! How can I assist you with your budget tracking or financial management today?', additional_kwargs={}, response_metadata={})]
+        }, 
+    next=(), 
+    config={
+        'configurable': {'thread_id': 'budgetAgent1-bit', 'checkpoint_ns': '', 'checkpoint_id': '1f0bf86a-34d9-6886-8002-f120caebdcc0'}
+        }, 
+    metadata={
+        'source': 'loop', 
+            'step': 2, 
+            'parents': {}
+        }, 
+    created_at='2025-11-12T05:15:43.477978+00:00', 
+    parent_config={
+        'configurable': {'thread_id': 'budgetAgent1-bit', 'checkpoint_ns': '', 'checkpoint_id': '1f0bf86a-2616-6b9b-8001-a939dd311be8'}
+        },
+    tasks=(), 
+    interrupts=()
+    )
+
+
+
+
+
+
+
+
+
+
+StateSnapshot(
+    values={
+        'TotalAmt': 1000, 
+        'Items': {'Products': [], 'spentAmt': 0}, 
+        'TransactionType': 'chat', 
+        'Amount': 0, 
+        'user_input': 'bought a laptop worth', 
+        'category': '', 
+        'messages': [
+                HumanMessage(content='hi', additional_kwargs={}, response_metadata={}), 
+                AIMessage(content='Hello! How can I assist you with your budget tracking or financial management today?', additional_kwargs={}, response_metadata={})]
+        },
+    next=('Router',), 
+    config={
+        'configurable': {'thread_id': 'budgetAgent1-bit', 'checkpoint_ns': '', 'checkpoint_id': '1f0bf86a-fa42-650c-8004-6678be7bca9a'}
+        },
+    metadata={
+        'source': 'loop', 
+        'step': 4, 
+        'parents': {}
+        }, 
+    created_at='2025-11-12T05:16:04.177844+00:00', 
+    parent_config={
+        'configurable': {'thread_id': 'budgetAgent1-bit', 'checkpoint_ns': '', 'checkpoint_id': '1f0bf86a-fa42-650b-8003-74caadab1082'}
+        },
+    tasks=(
+        PregelTask(
+            id='d9d50edf-9d5c-1990-caaf-c31319f19927', 
+            name='Router', 
+            path=('__pregel_pull', 'Router'), 
+            error=None, 
+            interrupts=(
+                Interrupt(
+                    value='Please specify the amount for this transaction:', 
+                    id='4573a5e9e25f3d4b9647d9db830b3e79'
+                    ),
+                ), 
+                state=None, result=None
+            ),
+        ),
+    interrupts=(
+        Interrupt(
+            value='Please specify the amount for this transaction:', 
+            id='4573a5e9e25f3d4b9647d9db830b3e79'
+            ),
+        )
+    )
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHICH EXECUTION CONTEXT created the checkpoint, not WHAT CAUSED IT TO PAUSE.
+'loop'	    : Normal graph execution    - After executing a node in the main loop
+'input'	    : User input	            - When you call invoke() with new state
+'update'	: Manual state update	    - When you manually update the state
+'interrupt'	: Interrupt triggered	    - When graph pauses due to interrupt

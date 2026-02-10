@@ -1,0 +1,36 @@
+{
+  "TotalAmt": -200,
+  "TransactionType": "Analysis",
+  "Amount": 0,
+  "user_input": "analyze my budget and spendin",
+  "category": "",
+  "Items": {
+    "spentAmt": 1200,
+    "Products": [
+      {
+        "name": "bought a laptop",
+        "amount": 1200,
+        "category": "electronics",
+        "time": "2025-11-12T12:44:45.074600"
+      }
+    ]
+  },
+  "conversation_history": [
+    {
+      "role": "human",
+      "content": "hi"
+    },
+    {
+      "role": "ai",
+      "content": "Hello! How can I assist you with your budget or financial planning today?"
+    },
+    {
+      "role": "human",
+      "content": "analyze my budget and spendin"
+    },
+    {
+      "role": "ai",
+      "content": "Based on your transaction data, your top spending category is electronics, where you've spent ₹1200. If you have any additional transactions or categories, please share them for a more comprehensive analysis."
+    }
+  ]
+}
