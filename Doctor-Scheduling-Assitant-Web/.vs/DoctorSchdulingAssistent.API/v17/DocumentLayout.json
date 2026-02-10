@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A1C654-20AA-B837-98F1-43E91BD48723}|source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\DoctorSchedulingAssistent.Users.Domain.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\userservice\\doctorschedulingassistent.users.domain\\services\\implementations\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A1C654-20AA-B837-98F1-43E91BD48723}|source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\DoctorSchedulingAssistent.Users.Domain.csproj|solutionrelative:source\\userservice\\doctorschedulingassistent.users.domain\\services\\implementations\\doctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0126B13-D054-E78E-650D-49E5567C7FEE}|source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\DoctorSchedulingAssistent.Admins.Domain.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\adminservice\\doctorschedulingassistent.admins.domain\\services\\implementations\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0126B13-D054-E78E-650D-49E5567C7FEE}|source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\DoctorSchedulingAssistent.Admins.Domain.csproj|solutionrelative:source\\adminservice\\doctorschedulingassistent.admins.domain\\services\\implementations\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309EFBB-8CFB-637E-8638-4761A234477E}|source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\DoctorSchedulingAssistent.Appointments.Domain.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\appointmentservice\\doctorschedulingassistent.appointments.domain\\services\\implementations\\doctoravailabilityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309EFBB-8CFB-637E-8638-4761A234477E}|source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\DoctorSchedulingAssistent.Appointments.Domain.csproj|solutionrelative:source\\appointmentservice\\doctorschedulingassistent.appointments.domain\\services\\implementations\\doctoravailabilityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\doctorschedulingassistent.shared\\models\\doctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|solutionrelative:source\\doctorschedulingassistent.shared\\models\\doctoravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\doctorschedulingassistent.shared\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|solutionrelative:source\\doctorschedulingassistent.shared\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EA7BE1-7867-9DB2-CF58-8BBBB3E4DB85}|source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\DoctorSchedulingAssistent.Admins.API.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\adminservice\\doctorschedulingassistent.admins.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9EA7BE1-7867-9DB2-CF58-8BBBB3E4DB85}|source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\DoctorSchedulingAssistent.Admins.API.csproj|solutionrelative:source\\adminservice\\doctorschedulingassistent.admins.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\doctorschedulingassistent.shared\\auth\\firebaseclaimstransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|solutionrelative:source\\doctorschedulingassistent.shared\\auth\\firebaseclaimstransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|c:\\neudesic project work\\doctor-scheduling-assitant-web\\source\\doctorschedulingassistent.shared\\auth\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AC2401-CFDA-176A-893D-E4C77C2640DE}|source\\DoctorSchedulingAssistent.Shared\\DoctorSchedulingAssistent.Shared.csproj|solutionrelative:source\\doctorschedulingassistent.shared\\auth\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorServices.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\Services\\Implementations\\DoctorServices.cs",
+              "RelativeDocumentMoniker": "source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\Services\\Implementations\\DoctorServices.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\Services\\Implementations\\DoctorServices.cs",
+              "RelativeToolTip": "source\\UserService\\DoctorSchedulingAssistent.Users.Domain\\Services\\Implementations\\DoctorServices.cs",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAUwJEBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:24:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorAvailabilityServices.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\Services\\Implementations\\DoctorAvailabilityServices.cs",
+              "RelativeDocumentMoniker": "source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\Services\\Implementations\\DoctorAvailabilityServices.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\Services\\Implementations\\DoctorAvailabilityServices.cs",
+              "RelativeToolTip": "source\\AppointmentService\\DoctorSchedulingAssistent.Appointments.Domain\\Services\\Implementations\\DoctorAvailabilityServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:23:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "source\\DoctorSchedulingAssistent.Shared\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Models\\Doctor.cs",
+              "RelativeToolTip": "source\\DoctorSchedulingAssistent.Shared\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:22:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorAvailability.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Models\\DoctorAvailability.cs",
+              "RelativeDocumentMoniker": "source\\DoctorSchedulingAssistent.Shared\\Models\\DoctorAvailability.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Models\\DoctorAvailability.cs",
+              "RelativeToolTip": "source\\DoctorSchedulingAssistent.Shared\\Models\\DoctorAvailability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:22:23.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\Services\\Implementations\\AdminServices.cs",
+              "RelativeDocumentMoniker": "source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\Services\\Implementations\\AdminServices.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\Services\\Implementations\\AdminServices.cs",
+              "RelativeToolTip": "source\\AdminService\\DoctorSchedulingAssistent.Admins.Domain\\Services\\Implementations\\AdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:18:24.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirebaseClaimsTransformer.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseClaimsTransformer.cs",
+              "RelativeDocumentMoniker": "source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseClaimsTransformer.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseClaimsTransformer.cs",
+              "RelativeToolTip": "source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseClaimsTransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:18:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirebaseAuthService.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseAuthService.cs",
+              "RelativeDocumentMoniker": "source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseAuthService.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseAuthService.cs",
+              "RelativeToolTip": "source\\DoctorSchedulingAssistent.Shared\\Auth\\FirebaseAuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:17:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Neudesic Project Work\\Doctor-Scheduling-Assitant-Web\\source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "source\\AdminService\\DoctorSchedulingAssistent.Admins.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:03:36.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
